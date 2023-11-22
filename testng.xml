@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/om.panhale/IdeaProjects/Unify">
+        <classes>
+            <class name="stockin.Createapprovalnotrequired">
+
+            </class>
+        </classes>
+    </test>
+</suite>
